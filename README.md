@@ -1,4 +1,4 @@
-# Access EC2 Instance through Session Manager
+# Access EC2  By Session Manager
 
 Create Cloud formation template to access EC2 Instance through Session Manager
 
